@@ -12,7 +12,7 @@ Elaboração: terceira etapa avaliativa que deverá ser realizada após o aluno 
 
 <br>
 
-[Acesse: IappMedic.com](iappmedic.000webhostapp.com)
+[Acesse: IappMedic.com](https://iappmedic.000webhostapp.com/)
 
 
 ## Layout do Projeto
